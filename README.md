@@ -2,7 +2,6 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=shicks255)
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shicks255)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](shicks255.com)
 
 ![GitHub metrics](https://metrics.lecoq.io/shicks255)
